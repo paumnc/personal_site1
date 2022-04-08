@@ -1,0 +1,44 @@
+body {
+    background: url(./background.png);
+     background-size: cover;
+     background-position: center;
+         color: #435422;
+         text-align: center;
+         font-family: Serif;
+     margin: auto;
+     background-attachment: fixed;
+   }
+   
+   #a-input {
+     text-decoration: none;
+     color: #435422;
+   }
+   
+   #a-input:hover{
+     background-color: #435422;
+     color: #fff2dd;
+   }
+   #input-email {
+     border: 0;
+     padding: 10px;
+     border-radius: 20px;
+     background: transparent;
+   }
+   #input-email:hover {
+     background: #435422;
+     color: #fff;
+   }
+   #submit {
+     background: #435422;
+     border: 0;
+     color: #fff2dd;
+     padding: 10px;
+     border-radius: 10px;
+   }
+   
+   #image {
+     max-width: 250px;
+     height: auto;
+     display: block;
+     margin: auto;
+   }
